@@ -11,4 +11,6 @@ Data Analysis, MySQL, Teradata, SQL
 This repository contain the Jupyter notebooks used to practice MySQL and some of the quizzes and exercises queried in Teradata. In the course, we are given two real business databases: one with hundred of thousands of rows and another with over 120 million rows in one table.
 
 CERTIFICATE
-[Managing Big Data with MySQL.pdf](https://github.com/ClaudeIshimwe/Managing-Big-Data-with-MySQL/files/10205672/Managing.Big.Data.with.MySQL.pdf)
+(https://github.com/ClaudeIshimwe/Managing-Big-Data-with-MySQL/files/10205672/Managing.Big.Data.with.MySQL.pdf)
+
+
